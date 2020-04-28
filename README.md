@@ -1,6 +1,6 @@
 # Suprimir el modal
 
-El modal de **QZ tray** -> " _localhost wants to access connected printers Untrusted Website_** " que advierte de una conexión no confiable, es innecesario en un sistema embebido que se ejecute localmente, puesto que no se requieren cifrar los mensajes.No suprimirlo perjudicaría la experiencia de usuario y la interfaz del producto. A continuación se listaran una serie de pasos para deshabilitar el aviso.
+El modal de **QZ tray** -> " _localhost wants to access connected printers Untrusted Website_** " que advierte de una conexión no confiable, es innecesario en un sistema embebido que se ejecute localmente, puesto que no se requieren cifrar los mensajes. No suprimirlo perjudicaría la experiencia de usuario y la interfaz del producto. A continuación se listaran una serie de pasos para deshabilitar el aviso.
 
 <br />
 <p align="center">
